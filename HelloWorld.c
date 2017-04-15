@@ -2,6 +2,6 @@
 
 int main(void) {
 	while(1) {
-		// Do nothing. Forever.
+		printf("Hello World.")
 	}
 }
